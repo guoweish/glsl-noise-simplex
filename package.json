@@ -1,6 +1,6 @@
 {
   "name": "glsl-noise-simplex",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "simplex noise with glslify",
   "main": "index.js",
   "scripts": {
