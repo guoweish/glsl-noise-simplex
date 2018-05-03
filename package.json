@@ -1,0 +1,27 @@
+{
+  "name": "glsl-noise-simplex",
+  "version": "0.0.1",
+  "description": "simplex noise with glslify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guoweish/glsl-noise-simplex.git"
+  },
+  "keywords": [
+    "glsl",
+    "noise",
+    "shader",
+    "perlin",
+    "simplex",
+    "webgl",
+    "glslify"
+  ],
+  "author": "guowei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guoweish/glsl-noise-simplex/issues"
+  }
+}
